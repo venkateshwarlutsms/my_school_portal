@@ -1,1 +1,1 @@
-# rgukt_iiit
+# my_school_portal
